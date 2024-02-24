@@ -1,6 +1,5 @@
 # Single-Cycle-and-Pipelined-MIPS-Processor
 
-# Single Cycle and Pipelined MIPS Processor
 ## Computer Architecture Project (2020)
 ## Project Objectives
 ### ->Designing a Pipelined 16-bit MIPS-like processor
